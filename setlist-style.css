@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+Setlist{ 
+	color: white;
+	background-color: darkblue;
+	width: 100%;
+}
+	
+heading, SongName, Artist, Genre, ReleaseYear {
+	display: block;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 10px;
+}
+
+heading {
+	background-color: #32A6BC;
+	font-size: 40px;
+	font-family: helvetica;
+	color:#E8C9FF;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+SongName{
+	margin-top: 10px;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+Artist{
+	font-size: 20px;
+	color:#E8C9FF;
+}
+
+Genre{
+	font-size: 20px;
+	color: #32A6BC;
+}
+
+ReleaseYear{
+	font-size: 20px;
+	color: #32A6BC;
+}

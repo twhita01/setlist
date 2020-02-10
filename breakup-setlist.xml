@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="setlist-style.css"?> 
+
+
+<Setlist>
+
+	<heading> Sad Boi Hours (AKA The Breakup Playlist) </heading>
+	
+	<song>
+		<SongName>Since U Been Gone</SongName>
+		<Artist>Kelly Clarkson</Artist>	
+		<Genre>Pop</Genre>
+		<ReleaseYear>2012</ReleaseYear>
+	</song>
+	
+	<song>
+		<SongName>Forget You</SongName>
+		<Artist>CeeLo Green</Artist>	
+		<Genre>Alternative</Genre>
+		<ReleaseYear>2010</ReleaseYear>
+	</song>
+	
+	<song>
+		<SongName>Irreplaceable</SongName>
+		<Artist>Beyoncé</Artist>	
+		<Genre>Pop</Genre>
+		<ReleaseYear>2007</ReleaseYear>
+	</song>
+	
+	<song>
+		<SongName>Don't Speak</SongName>
+		<Artist>No Doubt</Artist>	
+		<Genre>Pop</Genre>
+		<ReleaseYear>2003</ReleaseYear>
+	</song>
+	
+	<song>
+		<SongName>Cry Me a River</SongName>
+		<Artist>Justin Timberlake</Artist>	
+		<Genre>Pop</Genre>
+		<ReleaseYear>2002</ReleaseYear>
+	</song>
+	
+	<song>
+		<SongName>Tainted Love</SongName>
+		<Artist>Soft Cell</Artist>	
+		<Genre>Rock</Genre>
+		<ReleaseYear>2009</ReleaseYear>
+	</song>
+	
+	<song>
+		<SongName>We Are Never Getting Back Together</SongName>
+		<Artist>Taylor Swift</Artist>	
+		<Genre>Pop</Genre>
+		<ReleaseYear>2012</ReleaseYear>
+	</song>
+	
+	<song>
+		<SongName>Stronger</SongName>
+		<Artist>Britney Spears</Artist>	
+		<Genre>Pop</Genre>
+		<ReleaseYear>2000</ReleaseYear>
+	</song>
+	
+	<song>
+		<SongName>Someone Like You</SongName>
+		<Artist>Adele</Artist>	
+		<Genre>Pop</Genre>
+		<ReleaseYear>2011</ReleaseYear>
+	</song>
+	
+	<song>
+		<SongName>Tears Dry on Their Own</SongName>
+		<Artist>Amy Winehouse</Artist>	
+		<Genre>Pop</Genre>
+		<ReleaseYear>2006</ReleaseYear>
+	</song>
+	
+	
+</Setlist>
